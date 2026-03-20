@@ -8,16 +8,16 @@ Dashboard interactivo desarrollado en **Power BI** con datos almacenados en **Po
 
 ### 1. Temporadas
 Análisis por temporada del club entre 2015 y 2025.
-- Títulos obtenidos (6 en total): Superliga Argentina, Trofeo de Campeones, Supercopa Internacional, Copa Sudamericana
-- Rivales históricos más frecuentes
+- Títulos obtenidos (6 en total): Superliga Argentina, Trofeo de Campeones(x2), Supercopa Internacional, Copa Sudamericana
+- Rivales históricos 
 - Evolución de socios por temporada
 - Puntos obtenidos por torneo
 
 ### 2. Jugadores
-Estadísticas históricas de los jugadores más destacados.
+Estadísticas de los jugadores más destacados.
 - Goles totales, asistencias y G+A por jugador
 - Ranking de rendimiento individual
-- Dispersión de goles por temporada
+- Goles por temporada
 - KPIs: 310 goles · 142 asistencias · 452 G+A
 
 ### 3. Técnicos
