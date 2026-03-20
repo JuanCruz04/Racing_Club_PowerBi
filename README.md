@@ -61,7 +61,7 @@ Desempeño de los cuerpos técnicos que dirigieron al club.
 ![Jugadores](Jugadores.jpeg)
 
 ### Técnicos
-![Técnicos](Tecnicos.jpeg)
+![Tecnicos](Tecnicos.jpeg)
 
 ---
 
