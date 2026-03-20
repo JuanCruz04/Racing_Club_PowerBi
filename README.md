@@ -74,10 +74,5 @@ Desempeño de los cuerpos técnicos que dirigieron al club.
 
 ---
 
-## 👤 Autor
-
-> Podés reemplazar esta sección con tu nombre, LinkedIn y contacto.
-
----
 
 ⚽ *Datos relevados entre 2015 y 2025 — Proyecto personal de análisis deportivo*
