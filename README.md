@@ -65,14 +65,4 @@ Desempeño de los cuerpos técnicos que dirigieron al club.
 
 ---
 
-## 🚀 ¿Cómo usar este proyecto?
-
-1. Cloná o descargá el repositorio
-2. Abrí el archivo `.pbix` con **Power BI Desktop**
-3. Configurá la conexión a tu instancia de PostgreSQL (o usá los datos de muestra)
-4. ¡Explorá el dashboard!
-
----
-
-
 ⚽ *Datos relevados entre 2015 y 2025 — Proyecto personal de análisis deportivo*
